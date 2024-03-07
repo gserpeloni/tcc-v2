@@ -1,0 +1,16 @@
+Sensor 1
+1017 648
+0.00555
+8.70739032
+-0.04172982  -0.30083176
+-0.00454910 -0.000009496728  -0.000000982926
+0.000031822393  0.000003396015
+
+#Disposicao dos dados
+Nome Sensor
+Col x lin
+Tamanho do pixel (em mm)
+Tamanho da focal (em mm)
+Ponto principal (x0 e y0)
+Distorc radial (K1 K2 K3)
+Distorcao descentr (P1 P2)

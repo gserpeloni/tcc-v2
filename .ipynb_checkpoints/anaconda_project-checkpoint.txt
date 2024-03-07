@@ -1,0 +1,4 @@
+1. Create a new environment
+2. pip install name-pckg
+3. -- sift not install: 
+	- pip install opencv-contrib-python==3.4.2.16 --user
